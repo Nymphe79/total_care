@@ -1,2 +1,2 @@
-web: npm start --prefix backend/index.js
+web: npm run dev --prefix backend/nodeServer/index.js
 flutter: cd frontend && flutter run -d web
